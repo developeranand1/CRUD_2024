@@ -1,0 +1,5 @@
+.flex {
+    margin: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "79f5",
+      "name": "Anand Prakash Chaudhary ",
+      "email": "foremek580@jahsec.com"
+    },
+    {
+      "id": "4fc5",
+      "name": "Amit ",
+      "email": "foremek580@jahsec.com"
+    },
+    {
+      "id": "1218",
+      "name": "Annad",
+      "email": "foremek580@jahsec.com"
+    },
+    {
+      "id": "de82",
+      "name": "Anand",
+      "email": "foremek580@jahsec.com"
+    },
+    {
+      "name": "Anand",
+      "email": "foremek580@jahsec.com",
+      "id": "d958"
+    }
+  ]
+}
